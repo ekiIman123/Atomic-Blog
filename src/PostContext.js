@@ -8,6 +8,7 @@ function createRandomPost() {
   };
 }
 
+// i'll do this later
 // 1) Create a new CONTEXT
 const PostContext = createContext();
 
